@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+  <siteMapNode title="登录" url="~/Login.aspx" description="登录">
+    <siteMapNode title="主帖列表" url="~/TopicList.aspx" description="主帖列表">
+      <siteMapNode url="TopicDetail.aspx"  title="详细信息" description="详细信息">
+        <siteMapNode  url="TopicReply.aspx" title="ֹ回复" />
+      </siteMapNode>
+      <siteMapNode  url="TopicAdd.aspx" title="发新帖" description="发新帖">
+      </siteMapNode>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
+
